@@ -1,0 +1,17 @@
+Cache parameters:
+	Cache size 262144
+	Cache block size 64
+	Cache ASSOCIATIVITY 4
+Simulation results:
+	execution cycles 21809114 cycles
+	instructions 19999999
+	memory accesses 7202769
+	overall miss rate 0.72%
+	read miss rate 0.62%
+	memory CPI 0.09
+	total CPI 1.09
+	average memory access time 0.25 cycles
+load_misses 29658
+store_misses 22031
+load_hits 4718877
+store_hits 2432203
